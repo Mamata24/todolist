@@ -65,9 +65,9 @@ li {
   display: flex;
   justify-content: space-between;
   /* background: lightgray; */
-  font-size: 30px;
-  font-weight: 600;
-  color: #335edf;
+  font-size: 25px;
+  font-weight: bolder;
+  color: #09236f;
   padding: 15px 15px 15px 10px;
   border-bottom: 1px solid white;
   border-top: 1px solid white;
